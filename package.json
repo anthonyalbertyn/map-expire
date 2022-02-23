@@ -1,0 +1,27 @@
+{
+  "name": "@anthonyalbertyn/map-expire",
+  "version": "1.0.0",
+  "description": "Key value data structure with keys that expire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyalbertyn/map-expire.git"
+  },
+  "keywords": [
+    "node",
+    "map",
+    "key",
+    "value",
+    "expire",
+    "expiry"
+  ],
+  "author": "Anthony Albertyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonyalbertyn/map-expire/issues"
+  },
+  "homepage": "https://github.com/anthonyalbertyn/map-expire#readme"
+}
